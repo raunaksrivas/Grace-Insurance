@@ -1,0 +1,7 @@
+{
+  "name": "Grace Insurance USA",
+  "description": "Premium insurance and wealth creation services in Texas. Personal, Commercial, and Life Insurance solutions tailored to your needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
